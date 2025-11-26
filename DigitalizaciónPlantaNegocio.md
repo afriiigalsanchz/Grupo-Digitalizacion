@@ -1,26 +1,27 @@
-Propuesta de tecnologías de digitalización para Numier TPV
+# PROPUESTA DE TECNOLOGÍAS DE DIGITALIZACIÓN PARA NUMIERTPV
 
-Tecnologías aplicables en planta
+# Tecnologías aplicables en planta
 
 En la parte de planta me refiero a todo lo que ocurre en el local: los camareros, la caja registradora, la cocina, los pedidos… Es decir, lo que los clientes ven y lo que pasa en el momento de atenderlos.
 
-1. Dispositivos conectados (IoT) dentro del TPV
-
+**1. Dispositivos conectados (IoT) dentro del TPV**
+<br>
 Una de las tecnologías que más sentido tiene es que todos los dispositivos del local estén conectados entre sí. Por ejemplo, que el TPV, la impresora de tickets, los datáfonos o incluso las pantallas de cocina se comuniquen automáticamente. Esto ayuda a que todo funcione más fluido: los pedidos llegan sin que nadie tenga que avisar, si una máquina falla se detecta antes, y se reduce mucho el tiempo perdido en pequeñas confusiones.
-
-2. Pantallas digitales en cocina (KDS)
-
+<br>
+**2. Pantallas digitales en cocina (KDS)**
+<br>
 En vez de imprimir comandas o apuntarlas en papel, cada pedido aparece directamente en una pantalla en cocina o en la barra. Esto evita errores y hace que el personal vaya viendo los tiempos y el orden de cada plato. Es una tecnología muy sencilla pero cambia muchísimo la organización, porque todo está más controlado y se trabaja de forma más ordenada.
-
-3. Pagos digitales y por contactless
-
+<br>
+**3. Pagos digitales y por contactless**
+<br>
 Hoy en día casi nadie quiere esperar para pagar, así que permitir pagos rápidos es una mejora directa en la experiencia del cliente. Con tecnologías como NFC, códigos QR o incluso pagos desde aplicaciones del propio cliente, el negocio puede cobrar más rápido y evitar colas. Para un local que utiliza Numier, esto significa que el TPV se integra fácilmente con distintas formas de pago.
-
-4. Sensores de aforo y conteo de personas
-
+<br>
+**4. Sensores de aforo y conteo de personas**
+<br>
 Otra tecnología útil es instalar sensores que cuenten cuánta gente entra o sale del local. Esto no solo sirve para saber si está lleno, sino también para entender las horas pico y organizar mejor el personal. Aunque parece algo simple, da mucha información útil para el día a día.
+<br>
 
-Tecnologías aplicables en el negocio
+# Tecnologías aplicables en el negocio
 
 Aquí hablo de las tecnologías que ayudan más en la parte de gestión, administración, análisis de datos y toma de decisiones. Son cosas que normalmente no ve el cliente, pero que pueden mejorar muchísimo el rendimiento general del negocio.
 
