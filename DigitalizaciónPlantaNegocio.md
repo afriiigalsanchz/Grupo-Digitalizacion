@@ -25,22 +25,22 @@ Otra tecnología útil es instalar sensores que cuenten cuánta gente entra o sa
 
 Aquí hablo de las tecnologías que ayudan más en la parte de gestión, administración, análisis de datos y toma de decisiones. Son cosas que normalmente no ve el cliente, pero que pueden mejorar muchísimo el rendimiento general del negocio.
 
-1. Herramientas de análisis de datos
-
+**1. Herramientas de análisis de datos** //A PARTIR DE AQUI VALE?
+<br>
 Una de las mayores ventajas de digitalizar un negocio es poder ver qué está pasando sin tener que revisar papeles. Las herramientas de análisis permiten ver gráficas y estadísticas sobre ventas, productos más vendidos, cuáles son los días fuertes, etc. Incluso pueden ayudar a prever cuánta comida o bebida habrá que pedir para la semana siguiente. Esto facilita mucho la vida a los encargados y evita pérdidas por mala planificación.
-
-2. Uso de la nube para gestionar el TPV
-
+<br>
+**2. Uso de la nube para gestionar el TPV**
+<br>
 Otra tecnología clave es el almacenamiento en la nube. Con esto el negocio puede ver sus ventas en tiempo real desde cualquier sitio: desde casa, desde otro local o incluso desde el móvil. También permite que la empresa tenga varios locales y todos estén conectados entre sí, sin tener que usar ordenadores independientes.
-
-3. Sistemas de fidelización integrados 
-
+<br>
+**3. Sistemas de fidelización integrados**
+<br>
 Un CRM (Customer Relationship Management) ayuda a conocer mejor a los clientes. Con esta tecnología el negocio puede guardar, por ejemplo, cuántas veces viene cada cliente, qué le gusta consumir o si participa en promociones. Gracias a esto se pueden crear descuentos personalizados o programas de puntos que hagan que el cliente quiera volver. 
-
-4. Automatización administrativa
-
+<br>
+**4. Automatización administrativa**
+<br>
 Todos sabemos que las tareas administrativas suelen ser pesadas y repetitivas: facturas, informes, inventarios, contabilidad… Con la digitalización muchas de estas cosas se pueden generar de forma automática. Esto no solo ahorra tiempo, sino que también reduce errores y hace que la información esté siempre actualizada.
-
-5. Marketing digital automatizado
- 
+<br>
+**5. Marketing digital automatizado**
+ <br>
 Por último, otra tecnología que puede ser muy útil es la automatización de campañas de marketing. Por ejemplo, enviar correos con promociones, avisar a los clientes cuando hay un menú especial, o incluso gestionar redes sociales desde un panel centralizado. Esto ayuda a que el negocio tenga una presencia más profesional sin tener que dedicarle demasiado tiempo.
