@@ -25,7 +25,7 @@ Otra tecnología útil es instalar sensores que cuenten cuánta gente entra o sa
 
 Aquí hablo de las tecnologías que ayudan más en la parte de gestión, administración, análisis de datos y toma de decisiones. Son cosas que normalmente no ve el cliente, pero que pueden mejorar muchísimo el rendimiento general del negocio.
 
-**1. Herramientas de análisis de datos** //A PARTIR DE AQUI VALE?
+**1. Herramientas de análisis de datos**
 <br>
 Una de las mayores ventajas de digitalizar un negocio es poder ver qué está pasando sin tener que revisar papeles. Las herramientas de análisis permiten ver gráficas y estadísticas sobre ventas, productos más vendidos, cuáles son los días fuertes, etc. Incluso pueden ayudar a prever cuánta comida o bebida habrá que pedir para la semana siguiente. Esto facilita mucho la vida a los encargados y evita pérdidas por mala planificación.
 <br>
