@@ -10,7 +10,7 @@ Numier utiliza diversas herramientas para digitalizar las operaciones diarias de
 El núcleo de su sistema es un software TPV que permite una gestión integral del negocio, incluyendo ventas, control de stock, gestión de mesas y facturación.<br>
 (en los restaurantes te dejan incluir la carta, te dejo una imagen de una empresa informática real trabajando con numierTPV para un restaurante local)
 <br>
-<img src="images/numier.jiff"></img>
+<img src="images/numier.jpg"></img>
 <br>
 
 **Comanderos Digitales (Numier PDA):** <br> 
