@@ -8,12 +8,13 @@ Somos el grupo de los Alumnos: <br/>
 <br>
 Te dejamos los enlaces a las distintas partes del trabajo que hemos realizado conjuntamente:
 
-1- <a href="FichaEmpresa.md">Ficha de la empresa</a> <br>
-2- <a href="DigitalizacionPlantaNegocio.md">Listado de Tecnologías</a><br>
-3- <a href="AplicacionesIA.md">Aplicaciones de IA</a><br>
-4- <a href="TecnologiasDigitalizacionIA.md">Tecnologías de Digitalización e IA</a><br>
-5- <a href="NumierTPV(Digitalización).mmd">Diagrama de Mermaid</a><br>
-6- <a href="TransformacionDigital.md">Transformacion digital</a><br>
-7- <a href="#reflexion">Reflexión Final</a>
+1. [Ficha de la empresa](FichaEmpresa.md)
+2. [Listado de Tecnologías](DigitalizacionPlantaNegocio.md)
+3. [Aplicaciones de IA](AplicacionesIA.md)
+4. [Tecnologías de Digitalización e IA](TecnologiasDigitalizacionIA.md)
+5. [Diagrama de Mermaid](NumierTPV_Digitalizacion.mmd)
+6. [Transformación digital](TransformacionDigital.md)
+7. [Reflexión Final](#reflexion)
+
 
 
